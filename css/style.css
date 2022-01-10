@@ -394,3 +394,13 @@ a.navbar-brand {
         right: -10px;
     }
 }
+
+.logo-svg{
+    position: absolute;
+    width: 50vh;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+}
